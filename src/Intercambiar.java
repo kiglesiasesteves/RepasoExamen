@@ -6,7 +6,7 @@ public class Intercambiar {
                 CuandoCondicionesCumplidas(array, i, j);
             } else {
                 System.out.println("Índices fuera de rango");
-                ImprimirArray(array);//nueva rama
+                ImprimirArray(array);//nueva rama 2
             }
         } else{
             System.out.println("Los índices corresponde al mismo valor.");
