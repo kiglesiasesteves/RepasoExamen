@@ -6,6 +6,8 @@ public class Intercambiar {
                 CuandoCondicionesCumplidas(array, i, j);
             } else {
                 System.out.println("Índices fuera de rango");
+                ImprimirArray(array);//nueva rama 323
+
                 ImprimirArray(array);//índices fuera de rango 2
                 ImprimirArray(array);//nueva rama 34
             }
